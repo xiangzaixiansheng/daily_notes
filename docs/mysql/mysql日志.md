@@ -1,6 +1,6 @@
 
 
-![mysql_log_01](https://github.com/xiangzaixiansheng/mysql_note/blob/main/pic/mysql_log_01.png)
+![mysql_log_01](https://raw.githubusercontent.com/xiangzaixiansheng/mysql_note/main/pic/mysql_log_01.png)
 
 
 
@@ -33,17 +33,17 @@ mysql 每执行一条 DML 语句，先将记录写入 redo log buffer，后续�
 
 所以，**redo log buffer 写入 redo logfile 实际上是先写入 OS Buffer，然后操作系统调用 fsync () 函数将日志刷到磁盘**。过程如下
 
-![mysql_log_02](https://github.com/xiangzaixiansheng/mysql_note/blob/main/pic/mysql_log_02.png)
+![mysql_log_02](https://raw.githubusercontent.com/xiangzaixiansheng/mysql_note/main/pic/mysql_log_02.png)
 
 
 
-![](https://github.com/xiangzaixiansheng/mysql_note/blob/main/pic/mysql_log_03.png)
+![](https://raw.githubusercontent.com/xiangzaixiansheng/mysql_note/main/pic/mysql_log_03.png)
 
 **redo log file 的结构**
 
 InnoDB 的 redo log 是固定大小的。比如可以配置为一组 4 个文件，每个文件的大小是 1GB，那么 redo log file 可以记录 4GB 的操作。从头开始写。写到末尾又回到开头循环写。如下图
 
-![mysql_log_04](https://github.com/xiangzaixiansheng/mysql_note/blob/main/pic/mysql_log_04.png)
+![mysql_log_04](https://raw.githubusercontent.com/xiangzaixiansheng/mysql_note/main/pic/mysql_log_04.png)
 
 **PS：check point 是当前要擦除的位置，它与数据页中的 LSN 应当是一致的**。
 
@@ -101,4 +101,4 @@ redo log 和 binlog 主要有三种不同：
 
 整个过程如下图所示，其中橙色框表示是在 InnoDB 内部执行的，绿色框表示是在执行器中执行的：
 
-![](https://github.com/xiangzaixiansheng/mysql_note/blob/main/pic/mysql_log_05.png)
+![](https://raw.githubusercontent.com/xiangzaixiansheng/mysql_note/main/pic/mysql_log_05.png)
