@@ -13,3 +13,12 @@
     * [mysql日志](/mysql/mysql日志.md)
     * [mysql性能参数](/mysql/mysql性能参数.md)
     * [sql_设计注意事项](/mysql/sql_设计注意事项.md)
+
+* Redis
+    * [redis10个使用的技巧](/redis/redis10个使用的技巧.md)
+    * [redis变慢性能定位](/redis/redis变慢性能定位.md)
+    * [redis常用命令](/redis/redis常用命令.md)
+    * [redis的MULTI与PIPELINE](/redis/redis的MULTI与PIPELINE.md)
+    * [redis内存过高处理](/redis/redis内存过高处理.md)
+
+
