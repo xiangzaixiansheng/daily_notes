@@ -6,7 +6,7 @@
 
 * Mysql
     
-    ​       【重点】mysql_容量计算表格.xlsx
+    ​【重点】mysql_容量计算表格.xlsx
     
     * [重点:mysql性能参数](/mysql/mysql性能参数.md)
     * [表容量计算](/mysql/表容量计算.md)
@@ -26,6 +26,10 @@
     * [redis常用命令](/redis/redis常用命令.md)
     * [redis的MULTI与PIPELINE](/redis/redis的MULTI与PIPELINE.md)
     * [redis内存过高处理](/redis/redis内存过高处理.md)
+
+* Nodej总结
+    * [理解NodeJS多进程](/nodejs/理解NodeJS多进程.md)
+    * [Node.js的进程process模块和child_process](/nodejs/Node.js的进程process模块和child_process)
 
 
 
