@@ -31,5 +31,9 @@
     * [理解NodeJS多进程](/nodejs/理解NodeJS多进程.md)
     * [Node.js的进程process模块和child_process](/nodejs/Node.js的进程process模块和child_process)
 
+* 服务端冲刺总结
+    * [服务端知识21问](/server/服务端知识21问.md)
+
+
 
 
