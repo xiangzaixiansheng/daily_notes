@@ -30,6 +30,6 @@
     * [golang常见错误](/golang/golang常见错误.md)
     * [golang基础语法常见错误](/golang/golang基础语法常见错误.md)
 
-* server
+* 服务端冲刺
     * [基础chanel锁(重点)](/server/工具类github总结.md)
     * [服务端知识21问](/server/服务端知识21问.md)
