@@ -24,3 +24,12 @@
 * Nodej总结
     * [理解NodeJS多进程](/nodejs/理解NodeJS多进程.md)
     * [Node.js的进程process模块和child_process](/nodejs/Node.js的进程process模块和child_process)
+
+* Golang
+    * [基础chanel锁(重点)](/golang/基础chanel锁.md)
+    * [golang常见错误](/golang/golang常见错误.md)
+    * [golang基础语法常见错误](/golang/golang基础语法常见错误.md)
+
+* server
+    * [基础chanel锁(重点)](/server/工具类github总结.md)
+    * [服务端知识21问](/server/服务端知识21问.md)
