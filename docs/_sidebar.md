@@ -24,6 +24,10 @@
 * Nodej总结
     * [理解NodeJS多进程](/nodejs/理解NodeJS多进程.md)
     * [Node.js的进程process模块和child_process](/nodejs/Node.js的进程process模块和child_process.md)
+    * [重点: 深入理解Node.js中的进程与线程](/nodejs/深入理解Node.js中的进程与线程.md)
+    * [NodejsESModule和commonjs](/nodejs/NodejsESModule和commonjs.md)
+
+
 
 * Golang
     * [基础chanel锁(重点)](/golang/基础chanel锁.md)
