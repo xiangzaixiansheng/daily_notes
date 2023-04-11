@@ -695,8 +695,7 @@ func print (a ...interface{}){
   fmt.Print(v)
  }
  fmt.Println()
-}
-复制代码
+}	
 ```
 
 例子中我们自己定义了一个接受可变参数的函数，效果和fmt.Println()一样。可变参数本质上是一个数组，所以我们向使用数组一样使用它，比如例子中的 for range 循环。
@@ -711,7 +710,7 @@ func print (a ...interface{}){
 
 这3个字段，就是Go语言操作底层数组的元数据。
 
-![golang-01](../pic/golang-01.png)
+![golang-01](../../pic/golang-01.png)
 
 
 
