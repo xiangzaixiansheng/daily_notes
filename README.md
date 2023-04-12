@@ -17,6 +17,26 @@ docsify serve docs
 
 
 
+Ps: 加载html方式
+
+```
+<p>
+    <div style="width:100%; height:350px;border:none;text-align:center">
+		<iframe allowtransparency="yes" frameborder="0" width="300" height="1000" src="../nodejs_pdf/理解NodeJS多进程.html"/>
+	</div>
+</p>
+```
+
+ps:加载pdf的方式
+
+````
+```pdf
+https://raw.githubusercontent.com/xiangzaixiansheng/daily_notes/3734160fd487a83a19d366283d253a5fea671f02/docs/nodejs_pdf/%E7%90%86%E8%A7%A3NodeJS%E5%A4%9A%E8%BF%9B%E7%A8%8B.pdf
+```
+````
+
+
+
 * Mysql
     * [重点:mysql性能参数](/mysql/mysql性能参数.md)
     * [表容量计算](/mysql/表容量计算.md)
