@@ -26,7 +26,7 @@
     * [Node.js的进程process模块和child_process](/nodejs/Node.js的进程process模块和child_process.md)
     * [重点: 深入理解Node.js中的进程与线程](/nodejs/深入理解Node.js中的进程与线程.md)
     * [NodejsESModule和commonjs](/nodejs/NodejsESModule和commonjs.md)
-
+    * [重点: 事件循环总结](/nodejs/事件循环总结.md)
 
 
 * Golang
