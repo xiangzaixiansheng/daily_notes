@@ -22,7 +22,7 @@
     * [redis内存过高处理](/redis/redis内存过高处理.md)
 
 * Nodej总结
-    * [理解NodeJS多进程](/nodejs/理解NodeJS多进程.md)
+    * [理解NodeJS多进程](/nodejs/理解NodeJS多进程_html.md)
     * [Node.js的进程process模块和child_process](/nodejs/Node.js的进程process模块和child_process.md)
     * [重点: 深入理解Node.js中的进程与线程](/nodejs/深入理解Node.js中的进程与线程.md)
     * [NodejsESModule和commonjs](/nodejs/NodejsESModule和commonjs.md)
