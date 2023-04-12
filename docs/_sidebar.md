@@ -34,6 +34,8 @@
     * [golang常见错误](/golang/golang常见错误.md)
     * [golang基础语法常见错误](/golang/golang基础语法常见错误.md)
     * [深入理解go原子操作](/golang/深入理解go原子操作.md)
+    * [golang编码规范](/golang/golang编码规范.md)
+
 
 * 服务端冲刺
     * [工具类github总结)](/server/工具类github总结.md)
